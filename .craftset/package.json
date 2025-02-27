@@ -1,0 +1,28 @@
+{
+  "name": "bos_component",
+  "version": "1.0.0",
+  "description": "b.o.s. internal component declaration template",
+  "main": ".craftset/index.js",
+  "scripts": {
+    "start": "node ./.craftset/apply-updates.js",
+    "test": "node ./.craftset/inspect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarverott/blacksmith-organization-system.git"
+  },
+  "keywords": [
+    "gist",
+    "modules",
+    "experimentation"
+  ],
+  "author": "Sett Sarverott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarverott/blacksmith-organization-system/issues"
+  },
+  "homepage": "https://github.com/Sarverott/blacksmith-organization-system#readme",
+  "devDependencies": {
+    "@octokit/rest": "^21.1.1"
+  }
+}

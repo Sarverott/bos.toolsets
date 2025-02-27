@@ -1,0 +1,16 @@
+{
+    "declare":"<component-name>",
+    "include":{},
+    "mount":"<component-name>.json",
+    "setups":{
+
+    },
+    "contains":{
+        "class.js":"console.log('OK')",
+        "data.json":"0"
+    },
+    "data":{
+        "name":"<instance>",
+        "path":""
+    }
+}
