@@ -1,0 +1,9 @@
+
+
+#run-name: "component creating"
+
+#on: [push, create, fork]
+
+#jobs:
+#  add_component:
+    
