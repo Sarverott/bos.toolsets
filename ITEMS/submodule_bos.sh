@@ -1,0 +1,1 @@
+git submodule add https://github.com/$USER/bos.$1.git src/components/$1
